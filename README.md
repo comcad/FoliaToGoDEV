@@ -9,7 +9,7 @@ These builds may or may not be up-to-date with the latest Folia commits because 
 
 <h1>
 <p align="center">
-<a href="https://nightly.link/comcad/FoliaToGoDEV/actions/runs/13874112344"><code>▶️ Download the latest build</code></a>
+<a href="https://nightly.link/comcad/FoliaToGoDEV/actions/runs/13874112344"><code>▶️ Download the latest DEV build</code></a>
 </p>
 </h1>
 
