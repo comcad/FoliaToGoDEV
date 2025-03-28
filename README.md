@@ -19,7 +19,7 @@ This method does not work with the Windows command prompt or PowerShell.
 
 First, clone this repo:
 ```sh
-git clone https://github.com/Slackadays/FoliaToGo
+git clone https://github.com/comcad/FoliaToGo
 ```
 
 Now go to its directory:
@@ -31,12 +31,6 @@ Then run the build script:
 ```sh
 sh build.sh
 ```
-
-## Motivation
-
-I made this because the [Paper](https://github.com/PaperMC/Paper) team refuses to provide automated builds until Folia is "ready." This was to prevent extra support requests. 
-
-Unfortunately, this decision made life harder for those of us who want to use Folia anyway. So, why not just make a repo that does nothing but provide these pre-fab builds?
 
 ## Support
 
